@@ -1,0 +1,2 @@
+# BaiduNetDiskAutoTransfer
+百度云网盘批量转存工具
